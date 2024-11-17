@@ -50,10 +50,15 @@ Future Trends: Demand forecasting predicts sustained growth, aiding inventory an
 # Publication Details
 Journal: International Journal of Innovative Research in Computer and Communication Engineering (IJIRCCE).
 Volume: 12, Issue 7, July 2024.
-DOI: 10.15680/IJIRCCE.2024.1207028.
+DOI: 10.15680/IJIRCCE.2024.1207028.     
+
+[DV paper published.pdf](https://github.com/user-attachments/files/17791364/DV.paper.published.pdf)      
+
+![Dashboard 1](https://github.com/user-attachments/assets/4d82ccd7-3e3f-46ee-bd97-779497133596)        
+
+![Certificate](https://github.com/user-attachments/assets/2cf87ab8-e8a4-484e-b18f-da6810acabb3)
 
 
-[DV paper published.pdf](https://github.com/user-attachments/files/17791364/DV.paper.published.pdf)   
 
 
 
