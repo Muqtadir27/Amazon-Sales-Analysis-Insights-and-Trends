@@ -53,4 +53,14 @@ Volume: 12, Issue 7, July 2024.
 DOI: 10.15680/IJIRCCE.2024.1207028.
 
 
+[DV paper published.pdf](https://github.com/user-attachments/files/17791364/DV.paper.published.pdf)   
+
+
+
+
+
+
+
+
+
 
