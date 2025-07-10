@@ -1,5 +1,5 @@
 #  📈 Amazon Sales Analysis: Insights and Trends
-🚀 Overview
+## 🚀 Overview
 This project presents a comprehensive **Analysis of Amazon's Sales** performance using a Kaggle-provided dataset. The goal is to derive actionable insights through customer segmentation, product analysis, market trends, sentiment analysis, and predictive modeling.
 The study is backed by data visualization using Tableau and advanced analytics such as Market Basket Analysis, NLP-based sentiment evaluation, and time series forecasting. It highlights the power of big data in shaping e-commerce strategies.      
 
